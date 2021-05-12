@@ -188,9 +188,14 @@ footer .social-links a:hover {
 
 }
 
+
+
+
+
 @media (max-width: 960px) {
     h1 {
-    font-size: 30px;
+    font-size: 60px;
+    line-height: none;
     }
 
     h2 {
