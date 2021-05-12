@@ -6,6 +6,13 @@
    
 }
 
+h1 {
+    color: #4c4444;
+    font-family: var(--heading-font-family);
+    font-weight: bold;
+    font-size: 90px;
+    }
+
 
 
 h2 {
@@ -183,10 +190,7 @@ footer .social-links a:hover {
 
 @media (max-width: 960px) {
     h1 {
-    color: #4c4444;
-    font-family: var(--heading-font-family);
-    font-weight: bold;
-    font-size: 90px;
+    font-size: 30px;
     }
 
     h2 {
